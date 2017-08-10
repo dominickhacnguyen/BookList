@@ -6,6 +6,10 @@ This app allows a user to query the Google Books API and returns a list of books
 More info on the Google Books API available at:
 https://developers.google.com/books/
 
+Software and Tools
+--------------
+Android Studio, Google Books API, Java, and XML.
+
 Pre-requisites
 --------------
 
